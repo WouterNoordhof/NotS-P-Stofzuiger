@@ -8,12 +8,18 @@ De stofzuiger moet door middel van optimale looproutes door het huishouden heen 
 2. In computer science, graph traversal refers to the process of visiting each vertex in a graph.*
 
 ### Object detectie
-De robot mag natuurlijk niet tegen een object botsen. Het systeem moet dus uitgerust zijn met sensoren die objecten detecteren. Tevens zijn de sensoren vereist om de omgeving te mappen waar het looproute algoritme op los word gelaten. 
+De robot mag natuurlijk niet tegen een object botsen. Het systeem moet dus uitgerust zijn met sensoren die objecten detecteren. Tevens zijn de sensoren vereist om de omgeving te mappen waarop het looproute algoritme word toegepast. 
 
 *Beacons zouden als oplossing kunnen dienen, maar worden handmatig aangebracht en dekken daarom niet de lading.*
 
 ### Locatie herkenning
 De robot moet weten waar in de ruimte het bevindt. Voor dit probleem zijn verschillende oplossingen mogelijk. Bijvoorbeeld een camera aan het plafond die herkent waar de robot is, beacons die via bluetooth een singaal doorsturen, magnetische sensor (hell-effect-sensor), GEO-locatie o.b.v. radar, GEO-locatie obv Wi-Fi. Wat primair staat is dat de locatie herkenning op de centimeter nauwkeuring is kan herstellen van onverhoopte afwijkingen door bijvoorbeeld spelende kinderen of huisdieren. 
+
+### (RC) auto i.c.m. boordcomputer
+
+### GraphDB, Neo 4 J
+
+
 
 
 
