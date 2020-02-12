@@ -6,11 +6,13 @@ Eventueel focussen op navigeren, snelste/kortste weg. Daar vervolgens reinforcem
 
 Ga onderzoeken welke sensoren er zijn, wat wordt wel en niet ondersteund. In medialab zijn meer sensoren voor ideeën.
 -	Ultrasoon sensoren
+- radar
+- infrarood
 
 Lerende effect: Aan het begin niet weten hoe groot hij zelf is. Steeds beter worden in ontwijken van obstacles. Agoritme moet zijn dat begin hij slecht is en hij steeds beter wordt in de goede weg vinden. Universeel toepasbaar maken. (wordt het weer complexer)
 
 Budget: per project (in geheel) rond 300. Dat is niet per groep maar in geheel
 Bij esd hebben ze autotjes die we evt kunnen lenen. (Ralph Niels vragen)
 
-Crazyflie [https://www.bitcraze.io/crazyflie-2/](crazyflie) lenen van Marcel. (versie 1.0)
+Crazyflie [crazyflie](https://www.bitcraze.io/crazyflie-2/) lenen van Marcel. (versie 1.0)
 Deze heeft al alle sensoren. Dan kan je focussen op de navigatie etc
