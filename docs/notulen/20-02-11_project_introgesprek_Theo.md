@@ -1,4 +1,4 @@
-# Gesprek met Theo Theunissen 11-02-20
+# Gesprek met Theo Theunissen 11 Feb 2020
 
  - Ongeveer elke week laten zien wat er wel en niet gelukt is. Als niet gelukt, één of twee regels uitleg met waarom niet. 
  - Advies is om ook echt te kunnen experimenteren met een autootje in plaats van een simulatie. In de simulatie gaat het vrijwel altijd goed, maar in de realiteit gaat het toch anders. Daarnaast is het in de realiteit makkelijker te doen.
