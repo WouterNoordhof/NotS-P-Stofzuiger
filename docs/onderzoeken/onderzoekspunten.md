@@ -12,14 +12,25 @@ De robot mag natuurlijk niet tegen een object botsen. Het systeem moet dus uitge
 
 *Beacons zouden als oplossing kunnen dienen, maar worden handmatig aangebracht en dekken daarom niet de lading.*
 
+### Kleur herkenning
+Kleur herkenning (patroonherkenning) en deep learning hebben veel overeenkomst. Voor kleurherkennig moet de robot ook een camera hebben die beelden analyseert.
+
 ### Locatie herkenning
 De robot moet weten waar in de ruimte het bevindt. Voor dit probleem zijn verschillende oplossingen mogelijk. Bijvoorbeeld een camera aan het plafond die herkent waar de robot is, beacons die via bluetooth een singaal doorsturen, magnetische sensor (hell-effect-sensor), GEO-locatie o.b.v. radar, GEO-locatie obv Wi-Fi. Wat primair staat is dat de locatie herkenning op de centimeter nauwkeuring is kan herstellen van onverhoopte afwijkingen door bijvoorbeeld spelende kinderen of huisdieren. 
 
 ### (RC) auto i.c.m. boordcomputer
+De robot (CPS) is zelf sturende auto die door een zelflerende boordcomputer word bestuurd
+
+### Machine-, deep-, reinforcement learning
+De robot leert zelf door 
+
+### Deep learning
+Deep learning word toegepast met name voor patroonherkenning op bewegend beeld. De robot kan daarmee stof herkennen of andere objecten waarnemen.
+
+### Reinforcement learning
+
 
 ### GraphDB, Neo 4 J
-
-
 
 
 
