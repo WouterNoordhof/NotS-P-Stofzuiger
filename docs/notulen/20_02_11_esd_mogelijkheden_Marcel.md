@@ -1,4 +1,4 @@
-# Notulen Marcel 11-2-2020
+# Notulen Marcel 11 Feb 2020
 Er bestaat een semester dat zich volledig wijdt aan dit soort dingen. Dit is fulltime en mogelijk met restricties. 
 Het betekend dus niet dat het totaal niet haalbaar is, maar ga goed scopen. Maak het niet te groot. Geef duidelijke kaders aan voor wat je wil realiseren. Uitbreiden kan altijd nog.
 Gebruik maken van Reinforcement learning ipv deep learning/machine learning
